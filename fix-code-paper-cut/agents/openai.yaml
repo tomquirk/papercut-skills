@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fix Code Paper Cut"
+  short_description: "Ship one tiny code cleanup PR"
+  default_prompt: "Use $fix-code-paper-cut to find one isolated low-risk code smell, fix it, verify it, and open a draft PR."

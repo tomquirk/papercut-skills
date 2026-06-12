@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fix Doc Drift"
+  short_description: "Fix weekly documentation drift."
+  default_prompt: "Use $fix-doc-drift to find and fix one weekly batch of documentation drift in the Nuggets repo."

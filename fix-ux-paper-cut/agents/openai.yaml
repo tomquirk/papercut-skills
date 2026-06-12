@@ -1,0 +1,6 @@
+interface:
+  display_name: "Fix UX Paper Cut"
+  short_description: "Explore auth/app pages and ship a tiny UX fix"
+  default_prompt: "Use $fix-ux-paper-cut to explore signup, sign-in, and authenticated app pages, then fix one small UX paper cut and open a PR with uploaded before/after screenshots."
+policy:
+  allow_implicit_invocation: true

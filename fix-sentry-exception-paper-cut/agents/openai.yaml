@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fix Sentry Exception Paper Cut"
+  short_description: "Fix and PR one Sentry exception"
+  default_prompt: "Use $fix-sentry-exception-paper-cut to inspect recent Sentry exceptions with sentry-cli, fix one isolated unhandled error, and open a draft PR."
