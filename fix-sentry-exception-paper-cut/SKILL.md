@@ -1,6 +1,6 @@
 ---
 name: fix-sentry-exception-paper-cut
-description: Analyse recent production Sentry errors with sentry-cli, then fix and publish exactly one isolated unhandled error paper cut. Use when Codex should inspect Sentry issues or events for the Nuggets web app, choose a small current exception, handle it with a clear user-facing failure path or structured internal logging, run verification, and open a new draft PR without hiding unexpected bugs.
+description: Analyse recent production Sentry errors with sentry-cli, then fix and publish exactly one isolated unhandled error paper cut. Use when Codex should inspect Sentry issues or events for a target web app, choose a small current exception, handle it with a clear user-facing failure path or structured internal logging, run verification, and open a new draft PR without hiding unexpected bugs.
 ---
 
 # Fix Sentry Exception Paper Cut

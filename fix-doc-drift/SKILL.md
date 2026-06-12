@@ -1,11 +1,11 @@
 ---
 name: fix-doc-drift
-description: Find, fix, verify, and publish one weekly documentation-drift cleanup PR for the Nuggets repo. Use when Codex should compare docs under doc/ with current code, package scripts, routes, configuration, env schemas, tests, and ADRs; update stale or missing canonical explanations in a coherent docs-only batch; and skip the run when drift is not clearly evidenced.
+description: Find, fix, verify, and publish one weekly documentation-drift cleanup PR for a target repository. Use when Codex should compare docs under doc/ with current code, package scripts, routes, configuration, env schemas, tests, and ADRs; update stale or missing canonical explanations in a coherent docs-only batch; and skip the run when drift is not clearly evidenced.
 ---
 
 # Fix Doc Drift
 
-Use this skill to run a weekly documentation-drift sweep for Nuggets. Prefer source-backed corrections, canonical explanations, and a useful PR trail over broad rewriting.
+Use this skill to run a weekly documentation-drift sweep for a target repository. Prefer source-backed corrections, canonical explanations, and a useful PR trail over broad rewriting.
 
 ## Weekly Contract
 

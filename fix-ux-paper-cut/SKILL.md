@@ -1,6 +1,6 @@
 ---
 name: fix-ux-paper-cut
-description: Find, fix, verify, and publish one small low-risk UX paper cut in the Nuggets web app. Use when Codex should inspect localhost:3000 or another local app URL, including signup, sign-in, and authenticated app pages, choose an isolated visual, copy, layout, accessibility, or layout-shift nuisance, apply a contained frontend fix, capture before/after screenshots, run checks, and open a draft PR whose description includes a before/after screenshot table.
+description: Find, fix, verify, and publish one small low-risk UX paper cut in a target web app. Use when Codex should inspect localhost:3000 or another local app URL, including signup, sign-in, and authenticated app pages, choose an isolated visual, copy, layout, accessibility, or layout-shift nuisance, apply a contained frontend fix, capture before/after screenshots, run checks, and open a draft PR whose description includes a before/after screenshot table.
 ---
 
 # Fix UX Paper Cut

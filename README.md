@@ -1,6 +1,6 @@
 # Paper Cut Skills
 
-Agent skills for finding, fixing, verifying, and publishing small, low-risk maintenance PRs in the Nuggets codebase.
+Agent skills for finding, fixing, verifying, and publishing small, low-risk maintenance PRs in a target codebase.
 
 This package is designed for the Vercel `skills` CLI and skills.sh ecosystem. It contains four focused skills that turn recurring maintenance workflows into reusable agent instructions.
 
@@ -41,7 +41,7 @@ npx skills add . --list
 
 ## Requirements
 
-These skills are intentionally opinionated around the Nuggets repository and expect the target repo to provide its normal local tooling and documentation.
+These skills expect the target repository to provide its normal local tooling and documentation.
 
 - GitHub access for branch, commit, push, and draft PR creation.
 - `pnpm pr` in the target repository for final verification.
